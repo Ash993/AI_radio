@@ -1,6 +1,6 @@
 # radioai_app
 
-A new Flutter application.
+A new Flutter application. Provides AI voice recognition sytem to radio .
 
 ## Getting Started
 
