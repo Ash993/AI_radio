@@ -47,7 +47,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   setupAlan() {
-    AlanVoice.addButton("<Enter your key here>",
+    AlanVoice.addButton("f3a25558fcfad9f86e1cc06d3a33e1262e956eca572e1d8b807a3e2338fdd0dc/stage",
         buttonAlign: AlanVoice.BUTTON_ALIGN_RIGHT);
     AlanVoice.callbacks.add((command) => _handleCommand(command.data));
   }
